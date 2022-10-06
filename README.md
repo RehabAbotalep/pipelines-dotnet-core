@@ -1,4 +1,4 @@
-# Sample ASP.NET Core application for Azure Pipelines docs
+# Sample ASP.NET Core application for Azure Pipelines docs [![Build Status](https://dev.azure.com/Demos-DevOps/DevOps-Demo/_apis/build/status/RehabAbotalep.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/Demos-DevOps/DevOps-Demo/_build/latest?definitionId=49&branchName=master)
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
@@ -34,4 +34,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
 
-[![Build Status](https://dev.azure.com/Demos-DevOps/DevOps-Demo/_apis/build/status/RehabAbotalep.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/Demos-DevOps/DevOps-Demo/_build/latest?definitionId=49&branchName=master)
+
